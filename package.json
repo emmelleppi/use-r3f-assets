@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emmelleppi/use-r3f-assets"
+    "url": "git+https://github.com/emmelleppi/use-r3f-assets.git"
   },
   "dependencies": {
     "drei": "1.3.2",
@@ -88,5 +88,15 @@
   },
   "prettier": {
     "tabWidth": 2
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/emmelleppi/use-r3f-assets/issues"
+  },
+  "homepage": "https://github.com/emmelleppi/use-r3f-assets#readme",
+  "directories": {
+    "example": "example"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }

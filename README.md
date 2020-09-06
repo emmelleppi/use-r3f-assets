@@ -17,8 +17,8 @@ Loads normal textures from this repository: https://github.com/emmelleppi/normal
 
 ```jsx
 const [normalMap, url] = useNormalTexture(
-  1, // index of the normal texture
-  // second argument is texture attributes
+  1, // index of the normal texture - https://github.com/emmelleppi/normal-maps/blob/master/normals.json
+  // second argument is texture attributes 
   { 
     offset: [0, 0], 
     repeat: [normRepeat, normRepeat], 
@@ -39,9 +39,11 @@ return (
  
  #### `useMatcapTexture`
  
+ Loads matcap textures from this repository: https://github.com/emmelleppi/matcaps
+ 
  ```jsx
 const [matcap, url] = useMatcapTexture(
-  0, // index of the matcap texture
+  0, // index of the matcap texture https://github.com/emmelleppi/matcaps/blob/master/matcap-list.json
   1024 // size of the texture ( 64, 128, 256, 512, 1024 ) 
 )
 

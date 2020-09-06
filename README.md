@@ -4,7 +4,7 @@
 A set of hooks for quick prototyping in [react-three-fiber](https://github.com/react-spring/react-three-fiber).
 
 ```bash
-yarn add drei use-r3f-assets
+yarn add use-r3f-assets
 ```
 
 ## How it works

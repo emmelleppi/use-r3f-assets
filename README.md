@@ -35,7 +35,6 @@ return (
 
  ```
  
- 👉 Use the `url` to download the texture when you are ready for production!
  
  
  #### `useMatcapTexture`
@@ -54,6 +53,10 @@ return (
   ...
 )
  ```
+ 👉 You can also use the exact name of the matcap texture, like so:
+ ```jsx
+ const [matcap] = useMatcapTexture("3E2335_D36A1B_8E4A2E_2842A5")
+ ```
  
-  👉 Use the `url` to download the texture when you are ready for production!
+👉 Use the `url` to download the texture when you are ready for production!
 

@@ -8,8 +8,6 @@ A set of hooks for quick prototyping in [react-three-fiber](https://github.com/r
 yarn add use-r3f-assets
 ```
 
-⚠️ Make sure you also install `drei`, since this lib uses `useTextureLoader`.
-
 ## How it works
 
 The assets are hosted on github and served using [githack.com](https://raw.githack.com/). When you are ready to go live, remember to donwload the assets and host them yourself!

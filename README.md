@@ -1,7 +1,7 @@
-[![Try live](https://raw.githubusercontent.com/emmelleppi/use-r3f-assets/master/screenshot.png)](https://use-r3f-assets.netlify.app/)
+[![Try live](https://raw.githubusercontent.com/emmelleppi/use-r3f-assets/master/screenshot.png)](https://codesandbox.io/s/use-r3f-assets-4w6xk)
 [![npm](https://img.shields.io/npm/v/use-tweaks?style=flat-square)](https://www.npmjs.com/package/use-r3f-assets) ![npm](https://img.shields.io/npm/dt/use-r3f-assets.svg?style=flat-square) [![Discord Shield](https://discordapp.com/api/guilds/740090768164651008/widget.png?style=shield)](https://discord.gg/ZZjjNvJ)
 
-# 🧰 [use-r3f-assets](https://use-r3f-assets.netlify.app/)
+# 🧰 [use-r3f-assets](https://codesandbox.io/s/use-r3f-assets-4w6xk)
 
 A set of hooks for quick prototyping in [react-three-fiber](https://github.com/react-spring/react-three-fiber).
 

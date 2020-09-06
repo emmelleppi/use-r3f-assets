@@ -11,7 +11,7 @@ yarn add drei use-r3f-assets
 
 The assets are hosted on github and served using [githack.com](https://raw.githack.com/). When you are ready to go live, remember to donwload the assets and host them yourself!
 
-#### `useNormalTexture`
+#### 🛠️ `useNormalTexture`
 
 Loads normal textures from this repository: https://github.com/emmelleppi/normal-maps
 
@@ -37,7 +37,7 @@ return (
  
  
  
- #### `useMatcapTexture`
+ #### ⚒️ `useMatcapTexture`
  
  Loads matcap textures from this repository: https://github.com/emmelleppi/matcaps
  

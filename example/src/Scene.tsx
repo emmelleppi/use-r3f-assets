@@ -44,9 +44,11 @@ export default function Scene(props: SceneProps) {
   return (
     <mesh ref={ref} geometry={nodes.Suzanne.geometry}>
       <meshMatcapMaterial
-        {/* @ts-ignore */}
+        //@ts-ignore
         normalScale={[normScale, normScale]}
+        //@ts-ignore
         matcap={matcapTexture}
+        //@ts-ignore
         normalMap={normalTexture}
       ></meshMatcapMaterial>
     </mesh>

@@ -1,3 +1,4 @@
+[![npm](https://img.shields.io/npm/v/use-tweaks?style=flat-square)](https://www.npmjs.com/package/use-r3f-assets) ![npm](https://img.shields.io/npm/dt/use-r3f-assets.svg?style=flat-square) [![Discord Shield](https://discordapp.com/api/guilds/740090768164651008/widget.png?style=shield)](https://discord.gg/ZZjjNvJ)
 # 🧰 use-r3f-assets
 
 A set of hooks for quick prototyping in [react-three-fiber](https://github.com/react-spring/react-three-fiber).

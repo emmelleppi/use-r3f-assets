@@ -39,6 +39,7 @@ return (
 #### ⚒️ `useMatcapTexture`
 
 Loads matcap textures from this repository: https://github.com/emmelleppi/matcaps
+(It is a fork of this repository: https://github.com/nidorx/matcaps)
 
 ```jsx
 const [matcap, url] = useMatcapTexture(
